@@ -37,6 +37,8 @@
 - utilise quelques applications sncf/lemonde/skyscanner 
 - aime appeler ses proches pour prendre des nouvelles
 
+
+
 ## Nicolas :
 - 38 ans
 - de Turin
