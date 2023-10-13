@@ -26,6 +26,8 @@ L’application doit avoir différentes fonctionnalités que nous avons classé 
 
 ## Page d'accueil 
 
+### Popus : première ouverture
+
 ### Génération d'un itinéraire aléatoire
 
 ### Génération d'un itinéraire
@@ -37,6 +39,10 @@ L’application doit avoir différentes fonctionnalités que nous avons classé 
   - du mode de transport choisi (à pied, en transports en commun, etc).
   - des centres d'intérêt (filtres)
 
+### Visualisation des détails de l'itinéraire
+
+  Situé sur la droite de l'écran, un bouton permet l'ouverture de la page : Détails de l'itinéraire
+
 ### Lancement de l'itinéraire
 
   Une fois le parcours consulté et confirmé, une fonctionnalité GO permet l'export et le chargement de l'itinéraire sur l'application Google Maps.
@@ -44,6 +50,7 @@ L’application doit avoir différentes fonctionnalités que nous avons classé 
 ### Choix des activités
 
   Bouton déroulant qui donne accès au 4 types de lieu à intégrer dans le parcours.
+  Permet de définir l'ordre dans lequel on souhaite effectuer les activités.
 
 ### Enregistrement de l'itinéraire 
 
@@ -65,37 +72,136 @@ L’application doit avoir différentes fonctionnalités que nous avons classé 
 
 ## Onglet filtres
 
-### Ordre des activités
 ### Retour carte
+
+  Bouton permettant le retour vers la carte par la fermeture de l'onglet "Filtres".
+
 ### Option boucle
+
+  Permet à l'utilisateur de revenir au point de départ du parcours. 
+
 ### Nombre activité
+
+  Indique le nombre d'activité que l'utilisateur souhaite effectuer.
+
 ### Transports 
+
+  Préférences des transports. Icons à cocher. 
+  Choix possibles : 
+  - vélo
+  - bus 
+  - tram
+  - voiture
+
 ### Type de séjour
+
+  Choix possibles :
+  - romantique
+  - en famille
+  - aventure
+  - nature
+  - culturel
+  ...
+
 ### Préférences
+
+  Choix possibles :
+  - gratuit
+  - extérieur
+  - intérieur
+  - points de vue
+  ...
+
 ### Type d'évènement
+
+  Choix possibles :
+  - théâtre
+  - musique
+  - fête
+  - nature
+  - danse
+  - sports
+
 ### Cuisine
+
+  Choix possibles :
+  - végé
+  - locale
+  - végan
+  - gourmande
+  - monde
+
 ### Bar
+
+  Choix possibles :
+  - bière
+  - vin
+  - pub
+  - cosy 
+  - chill
+  - terrasse
+
 ### Fonctions Effacer et Appliquer
 
+  La fonction "Effacer" réinitialise tous les filtres.
+  La fonction "Appliquer":
+  - confirme les fitres choisis 
+  - ferme l'onglet "Filtres"
+  - génère un nouvel itinéraire
 
 ## Page détails de l'itinéraire
 
 ### Modification activité par recherche
+
+  L'utilisateur a la possibilité de modifier une activité en tapant sur son clavier.
+  Lorsqu'il clique sur l'activité :
+  - le clavier apparaît
+  - il peut taper le nom de son choix
+  - puis valider
+
 ### Switch activité
+
+  Un bouton permet de générer une nouvelle activité (dans le même thème et dans le même périmètre).
+
 ### Suppression activité
+
+  Un bouton permet la suppresion d'une activité.
+
 ### Confirmation activité
+
+  Un bouton permet la confirmation de l'activité.
+
 ### Partie informations itinéraires (durées etc)
+
+  Cette partie contient les éléments suivants :
+  - heure de départ
+  - durée par transport
+  - temps estimé par activité
+  - heure de fin estimée
+
 ### Retour carte
+
+  En bas à gauche, un bouton permet le retour à la carte / page d'accueil.
+
 ### Envoi à la page détails de l'activité
 
-
+  En bas à droite, un bouton permet l'accès à la page "Détails de l'activité".
 ## Page détails de l'activité
 
 Page détaillée pour chaque lieu d'intérêt avec des informations telles que l'adresse, la description, les horaires d'ouverture, les avis des utilisateurs, les photos, etc.
 
 ### Switch activité
+
+  Un bouton permet de générer une nouvelle activité (dans le même thème et dans le même périmètre).
+
 ### Confirmation activité
+
+  Un bouton permet de confirmer son choix d'activité.
+
 ### Photo + détails (contenu page)
+
+  
+
 ### Partie contact
 ### Retour carte
 ### Retour page détails de l'itinéraire
