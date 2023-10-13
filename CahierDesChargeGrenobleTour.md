@@ -10,10 +10,13 @@ GrenobleTour est une application mobile 100% gratuite conçue pour vous aider à
 Cette application fait office de guide touristique numérique ainsi que d'un carnet de route pratique et facile à utiliser. Elle réunit une communauté de visiteurs de Grenoble désireux de s'inspirer, de partager leurs expériences et de se laisser guider en toute tranquillité.
 
 ## Objectif
+
 L'objectif principal de l'application GrenobleTour est de fournir une plateforme conviviale offrant une carte géographique mettant en évidence les parcours(itinéraire), la navigation GPS, les détails des lieux d'intérêt, la liste des événements et la prise en charge de plusieurs langues.  L'accent est mis sur la simplicité et la légèreté de l'interface utilisateur, garantissant ainsi une expérience fluide sans surcharger les utilisateurs avec une multitude d'informations
+
 
 ## Public Cible
 L'application s'adresse aux familles, aux individus adultes résidents ou en visite à Grenoble pour un court séjour, allant d'une demi-journée à trois jours.
+
 
 ## Besoins fonctionnels
 
@@ -31,6 +34,7 @@ Détails sur les événements, y compris les dates, les lieux et les description
 Page détaillée pour chaque lieu d'intérêt avec des informations telles que l'adresse, la description, les horaires d'ouverture, les avis des utilisateurs, les photos, etc.
 ### Langues Multiples :
 Prise en charge de plusieurs langues pour atteindre un public international.
+
 
 
 ## Application de Référence
