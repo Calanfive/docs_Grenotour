@@ -13,7 +13,19 @@ aprèm
 ### mardi 12/12/2023
 
 matin
--
+- organisation avec le groupe pour la semaine qui suis
+- début du Gantt avec Camille (pas fini)
 
 aprèm
--
+- reprise du Gantt avec Camille
+- 
+
+### mercredi 13/12/2023
+matin
+aprèm
+### jeudi 13/12/2023
+matin
+aprèm
+### vendredi 13/12/2023
+matin
+aprèm
