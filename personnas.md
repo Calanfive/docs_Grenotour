@@ -1,10 +1,14 @@
-# Personnas projet Greno'tour x4
+# Personas
 
-## Wei : 
+Soucieux de répondre à un réel besoin, nous avons créé des personnages imaginaires pouvant représenter différents segments de cible. Les profils choisis sont inspirés de personnes réelles, tels des proches ou de simples connaissances suceptibles d'être intéressés par les avantages que proposent cette application lors de leur séjour à Grenoble. 
+
+Les personas proposés comprennent des traits de caractère, des goûts personnels, des habitudes de vie, des caractéristiques sociales ou encore psychologiques. Ces aspects vont nous permettre de mieux cibler les futurs utilisateurs. C'est donc une étape importante du processus de développement.
+
+## Weï : 
 - 23 ans
 - de Chengdu, province du Sichuan, Chine
-- étudiante en master 2 à l'ENM Grenoble (Management)
-- arrivée en janvier 2023
+- étudiante en master 2 à GEM (Grenoble Ecole de Management)
+- installée depuis janvier 2023
 - sérieuse et appliquée dans ses études
 - se découvre un intérêt pour l'art et la culture depuis peu 
 - curieuse, elle aime se laisser porter par les nouveautés culturelles aussi bien visuels que sonores
@@ -36,8 +40,6 @@
 - inscrite sur le réseau fb mais y passe peu de temps
 - utilise quelques applications sncf/lemonde/skyscanner 
 - aime appeler ses proches pour prendre des nouvelles
-
-
 
 ## Nicolas :
 - 38 ans
