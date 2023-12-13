@@ -17,6 +17,8 @@ Les personas proposés comprennent des traits de caractère, des goûts personne
 - ultra connectée via l'AppleStore
 - elle génère une bonne communauté de followers sur Instagram (15300), principalement de Chine
 
+On note que Weï a fort potentiel d'utilisation de l'application. Elle est intéressée par tout type d'évènement. Sa présence sur les réseaux sociaux nous rappelle l'importance de fonctionnalités telles que l'enregistrement, le stockage et le partage des itinéraires appreciés. La question du gain de temps est importante. Ergonomie et fluidité sont attendues. Sa nationalité nous impose de proposer au moins une version traduite en anglais.
+
 ## Erwan : 
 - 19 ans
 - étudiant en 1ère année de STAPS (Sport)
@@ -37,8 +39,8 @@ Les personas proposés comprennent des traits de caractère, des goûts personne
 - ne jure que par la gastronomie locale
 - a toujours été intéressée par l'histoire de France
 - de nature posée et organisée
-- inscrite sur le réseau fb mais y passe peu de temps
-- utilise quelques applications sncf/lemonde/skyscanner 
+- inscrite sur le réseau Facebook mais y passe peu de temps
+- utilise quelques applications SNCF Connect / Le Monde / Sky Scanner 
 - aime appeler ses proches pour prendre des nouvelles
 
 ## Nicolas :
