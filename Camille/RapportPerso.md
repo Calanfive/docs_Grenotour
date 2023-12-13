@@ -49,5 +49,5 @@ En fin de semaine
 
 ## Rapport semaine 2
 
-- Gestion du Kanban Github / Organisation du travail / Gant 1, 2 / Conclusions Personas / Contexte du cahier des charges 
-- 
+- Gestion du Kanban Github / Organisation du travail / Gant 1, 2
+- Contexte du cahier des charges / Conclusions Personas /
