@@ -2,7 +2,7 @@
 
 Soucieux de répondre à un réel besoin, nous avons créé des personnages imaginaires pouvant représenter différents segments de cible. Les profils choisis sont inspirés de personnes réelles, tels des proches ou de simples connaissances suceptibles d'être intéressés par les avantages que proposent cette application lors de leur séjour à Grenoble. 
 
-Les personas proposés comprennent des traits de caractère, des goûts personnels, des habitudes de vie, des caractéristiques sociales ou encore psychologiques. Ces aspects vont nous permettre de mieux cibler les futurs utilisateurs. C'est donc une étape importante du processus de développement.
+Les personas proposés comprennent des traits de caractère, des goûts personnels, des habitudes de vie, des caractéristiques sociales ou encore psychologiques. Ces aspects vont nous permettre de mieux cibler les futurs utilisateurs. C'est donc une étape importante du processus de développement de notre projet.
 
 ## Weï : 
 - 23 ans
@@ -51,11 +51,12 @@ Très peu connectée, Françoise a pour habitude de se documenter dans des livre
 - 38 ans
 - de Turin
 - voyage en train 
-- 3 jours en famille (x4), 2 enfants, 3 et 8 ans (prévoit une rando le second jour)
-- père de famille, technicien audiovisuel depuis 11 ans, ce qu'il aime le plus c'est  partager de nouvelles expériences avec son clan
+- 3 jours en famille (x4), 2 enfants, 3 et 8 ans (prévoit une randonnée le second jour)
+- père de famille, technicien audiovisuel depuis 11 ans, ce qu'il aime le plus c'est partager de nouvelles expériences avec son clan
 - sa femme Elodie est peintre et pratique le graffiti au sein d'une association de réhabilition de bâtiments industriels en attente de reprise de projet
 - leurs enfants sont assez impatients lorsqu'une acitvité devient trop longue
 - Nicolas est peu sur son telephone mais Elodie y trouve souvent des sources d'inspiration
 - ils cherchent à limiter l'exposition des écrans aux enfants
 - pensent souvent qu'il est très bon de stimuler leur créativité
 
+Nicolas et sa famille ont un fort potentiel d'utilisation de l'application. Leurs centres d'intérêt nous confirment qu'il faut diversifier les filtres autour de la culture. La question du timing revient à nouveau. L'ajout d'une fonctionnalité liée à la durée du circuit s'avère être indispensable. Le désir de randonner nous interroge sur la zone géographique à couvrir mais nous faisons le choix de rester fidèle à notre projet initial qui est de ne pas s'étendre hors agglomération.
