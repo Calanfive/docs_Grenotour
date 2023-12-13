@@ -29,6 +29,8 @@ On note que Weï a fort potentiel d'utilisation de l'application. Elle est inté
 - connecté et follower de nombreux sportifs internationaux
 - dispose de peu de moyens financiers, parents aux revenus modestes
 
+On note qu'Erwan a un bon potentiel d'utilisation de l'application. Ses interêts nous questionne sur les types d'évenements à ajouter aux filtres possibles. Son statut social confirme notre choix de développer un outil gratuit et accessible à tous. 
+
 ## Françoise :
 - 64 ans
 - des Sables d'Olonne
