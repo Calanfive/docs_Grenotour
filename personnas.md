@@ -45,6 +45,8 @@ On note qu'Erwan a un bon potentiel d'utilisation de l'application. Ses interêt
 - utilise quelques applications SNCF Connect / Le Monde / Sky Scanner 
 - aime appeler ses proches pour prendre des nouvelles
 
+Très peu connectée, Françoise a pour habitude de se documenter dans des livres ou brochures et au besoin, sur des sites touristiques référencés. Elle a donc un faible potentiel d'utilisation de l'application. Néanmoins, elle nous rappelle l'importance de diversifier les points d'intérêt et notamment les filtres autour de la restauration. Ce profil vient également confirmer l'idée de base qui était créer un outil 100% mobile. 
+
 ## Nicolas :
 - 38 ans
 - de Turin
