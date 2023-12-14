@@ -1,10 +1,13 @@
+
 # Nom de l'Application: GrenoTour
+
 
 ```
 Création de parcours(itinéraire), les détails des lieux d'intérêt, la liste des évènements et la prise en charge de plusieurs langues.
 ```
 
 ## Description
+
 
   GrenobleTour est une application mobile 100% gratuite conçue pour vous aider à explorer la ville de Grenoble, que ce soit à pied ou en utilisant les transports en commun en proposant des parcours personnalisables.
   Cette application fait office de guide touristique numérique ainsi que d'un carnet de route pratique et facile à utiliser.
@@ -22,6 +25,24 @@ Création de parcours(itinéraire), les détails des lieux d'intérêt, la liste
   L'application GrenobleTour peut proposer plusieurs fonctionnalités pour offrir une expérience complète aux utilisateurs qui souhaitent explorer la ville de Grenoble. Voici une liste de fonctionnalités potentielles pour notre application :
 
   L’application doit avoir différentes fonctionnalités que nous avons classé suivant les différentes pages. 
+
+GrenobleTour est une application mobile 100% gratuite conçue pour vous aider à explorer la ville de Grenoble, que ce soit à pied ou en utilisant les transports en commun en proposant des parcours personnalisables.
+Cette application fait office de guide touristique numérique ainsi que d'un carnet de route pratique et facile à utiliser.
+
+## Objectif
+
+L'objectif principal de l'application est d'offrir une carte géographique mettant en évidence les parcours(itinéraire), les détails des lieux d'intérêt, la liste des événements et la prise en charge de plusieurs langues. L'accent est mis sur la simplicité et la légèreté de l'interface utilisateur, garantissant ainsi une expérience fluide sans surcharger les utilisateurs avec une multitude d'informations.
+
+## Public Cible
+
+L'application s'adresse à toute personne résidente ou en visite à Grenoble. Notre cible souhaite organiser sa visite en fonction de ses centres d'intérêt sur un temps donné.
+
+## Besoins fonctionnels
+
+L'application GrenobleTour peut proposer plusieurs fonctionnalités pour offrir une expérience complète aux utilisateurs qui souhaitent explorer la ville de Grenoble. Voici une liste de fonctionnalités potentielles pour notre application :
+
+L’application doit avoir différentes fonctionnalités que nous avons classé suivant les différentes pages. 
+
 
 
 ## Page d'accueil 
@@ -63,9 +84,13 @@ Création de parcours(itinéraire), les détails des lieux d'intérêt, la liste
   - Whatsapp
   - Gmail
   - Messages
+
   - Instagram 
 
 ### Envoi à la page "Détails de l'activité"
+
+
+
 
   Dirige l'utilisateur vers une page détaillée de l'activité lorsqu'il appuye sur un îcone de l'itnéraire.
 
@@ -183,6 +208,7 @@ Création de parcours(itinéraire), les détails des lieux d'intérêt, la liste
 
   En bas à gauche, un bouton permet le retour à la carte / page d'accueil.
 
+
 ### Envoi à la page "Détails de l'activité"
 
   En bas à droite, un bouton permet l'accès à la page "Détails de l'activité".
@@ -229,6 +255,7 @@ Création de parcours(itinéraire), les détails des lieux d'intérêt, la liste
 ## Application de référence
 
 Vous pouvez consulter l'application
+
 - Visitacity (https://www.visitacity.com/) comme exemple de ce que nous souhaitons accomplir avec GrenoTour
 - Decathlon Outdoor : pour s'inspirer sur le plan ergonomique
 - Le Bon Coin (inspiration partie "Filtres")
