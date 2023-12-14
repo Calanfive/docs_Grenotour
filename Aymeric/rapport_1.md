@@ -18,11 +18,14 @@ matin
 
 aprèm
 - reprise du Gantt avec Camille
-- 
 
 ### mercredi 13/12/2023
 matin
+- début d'une petite liste d'outils qu'on pourra utilisé (!!! liste brute)
+
 aprèm
+- début de 4 use case (mais pas encore corrigé)
+
 ### jeudi 13/12/2023
 matin
 aprèm
