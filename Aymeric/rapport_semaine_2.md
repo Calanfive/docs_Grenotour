@@ -1,4 +1,4 @@
-# test du premier rapport de la semaine_1 (début officiel du projet)
+# test du premier rapport de la semaine_2 
 
 ### lundi 11/12/2023
 
@@ -22,15 +22,18 @@ aprèm
 ### mercredi 13/12/2023
 matin
 - début d'une petite liste d'outils qu'on pourra utilisé (!!! liste brute)
+- commencement des use case
 
 aprèm
-- début de 4 use case (mais pas encore corrigé)
+- reprise des 4 use case (mais pas encore corrigé)
 
 ### jeudi 13/12/2023
 matin
--
+- de mon coté -remise à niveau des tests e2e et tests unitaires
+
 aprèm
 -
+
 ### vendredi 13/12/2023
 matin
 -
