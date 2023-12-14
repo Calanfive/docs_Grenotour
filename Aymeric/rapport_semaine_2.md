@@ -32,7 +32,7 @@ matin
 - de mon coté -remise à niveau des tests e2e et tests unitaires
 
 aprèm
--
+- schéma de la base de données et MCD avec Camille
 
 ### vendredi 13/12/2023
 matin
