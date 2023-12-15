@@ -46,7 +46,6 @@ En fin de semaine
 
 - Dockerisation du back au moins
 
-
 ## Rapport semaine 2
 
 - Gestion du Kanban Github / Organisation du travail / Gant 1, 2
