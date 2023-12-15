@@ -27,15 +27,15 @@ matin
 aprèm
 - reprise des 4 use case (mais pas encore corrigé)
 
-### jeudi 13/12/2023
+### jeudi 14/12/2023
 matin
 - de mon coté -remise à niveau des tests e2e et tests unitaires
 
 aprèm
 - schéma de la base de données et MCD avec Camille
 
-### vendredi 13/12/2023
+### vendredi 15/12/2023
 matin
--
+- MCD et correction 
 aprèm
--
+- MCD et kanban
