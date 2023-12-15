@@ -1,4 +1,4 @@
-# test du premier rapport de la semaine_1 (début officiel du projet)
+# test du premier rapport de la semaine_2 
 
 ### lundi 11/12/2023
 
@@ -18,14 +18,24 @@ matin
 
 aprèm
 - reprise du Gantt avec Camille
-- 
 
 ### mercredi 13/12/2023
 matin
+- début d'une petite liste d'outils qu'on pourra utilisé (!!! liste brute)
+- commencement des use case
+
 aprèm
-### jeudi 13/12/2023
+- reprise des 4 use case (mais pas encore corrigé)
+
+### jeudi 14/12/2023
 matin
+- de mon coté -remise à niveau des tests e2e et tests unitaires
+
 aprèm
-### vendredi 13/12/2023
+- schéma de la base de données et MCD avec Camille
+
+### vendredi 15/12/2023
 matin
+- MCD et correction 
 aprèm
+- MCD et kanban
