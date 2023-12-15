@@ -221,8 +221,8 @@ https://dbdiagram.io/d/64eddd4b02bd1c4a5e9b1247
 
 // Table user_visiteur { // pas sur de cette table
 //   id integer [primary key]
-  // nom varchar(255)
-  // prenom varchar(255) 
+// nom varchar(255)
+// prenom varchar(255) 
 //   heur_avant_delete number
 //   itineraire_id integer
 // }
@@ -296,4 +296,84 @@ Ref: "GrenoTour"."nbr_users_inscrits_id" < "user_inscrit"."id"
 Ref: "GrenoTour"."nbr_entreprises_id" < "entreprise"."id"
 
 Ref: "user_inscrit"."itineraire_id" < "itineraire"."id"
+```
+# MCD  3
+``` mermaid
+erDiagram
+    utilisateur||--||itineraire : xxx
+    itineraire_favoris}|--||utilisateur : xxxx
+    utilisateur||--||pref :xxx
+    type_activite||--|| point_interet :xxxx
+    type_activite|o--|{ activites_favories :xxxx
+    activites_favories}|--o{ utilisateur :xxxx
+    itineraire|o--|{itineraire_favoris :xxxx
+    itineraire}|--|{ init :xxx
+    init}|--|{point_interet :xxx
+
+    activites_favories{
+        INT activites_favories_id PK
+    }
+    init{
+        INT itineraire_id FK
+        INT pont_interet_id FK
+    }
+    type_activite{
+        INT type_activite_id PK
+        VAR(255) bar
+        VAR(255) restaurant
+        VAR(255) loisir
+        VAR(255) culture
+    }
+
+    utilisateur{
+        INT utilisateur_id PK
+
+        VAR(255) itineraire_id FK
+        VAR(255) itineraire_favorie_id FK
+        
+        VAR(255) nom
+        VAR(255) prenom 
+        VAR(255) mail 
+        VAR(255) MOT 
+        INT telephone 
+    }
+    itineraire{
+        INT itineraire_id PK
+
+        INT nbr_pions 
+        INT itineraire_nbr_voyageurs 
+        INT itineraire_nbr_restaurants 
+        INT itineraire_nbr_loisirs 
+        INT itineraire_nbr_bars 
+        INT itineraire_nbr_hotels 
+    }
+
+    itineraire_favoris{
+        INT itineraire_favorie_id PK
+
+        INT nbr_pions
+        INT itineraire_nbr_voyageurs 
+        INT itineraire_nbr_restaurants 
+        INT itineraire_nbr_loisirs 
+        INT itineraire_nbr_bars 
+        INT itineraire_nbr_hotels 
+    }
+    point_interet {
+        INT pont_interet_id PK
+
+        INT centre_activicter_id FK 
+        INT type_activite_id FK
+        
+        INT nbr_visiteur 
+        INT nbr_visiteur_mois 
+        INT nbr_etoile 
+        VAR(255) adress
+        INT telephone 
+        VAR(255) mail
+    }
+
+    pref{
+        INT pref_id
+        VAR(255) langue
+    }
 ```
