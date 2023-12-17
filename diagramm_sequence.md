@@ -22,9 +22,9 @@ sequenceDiagram
     GrenoTour->>+user: Ouverture du formulaire
     user->>+GrenoTour: Envoi du formulaire
     GrenoTour->>+GrenoTour: Adresse mail check
-    alt
+    alt Adresse mail déjà utilisé / non valide
         GrenoTour->>+user: Login ou mot de passe refusé 
-    else
+    else Identifiants valides
         GrenoTour->>+BDD: Requête inscription
     BDD->>+GrenoTour: Validation inscription
     GrenoTour->>+user: Accusé de validation (mail)
@@ -32,6 +32,18 @@ sequenceDiagram
 ```
 
 # 3 Séquence authentification
-
+ 
+ ```mermaid
+ sequenceDiagram
+    User->>+GrenoTour: Demande d'authentification
+    User->>+GrenoTour: Saisir mot de passe et login
+    GrenoTour->>+GrenoTour: Adresse mail check
+    alt Identifiants non reconnus
+        GrenoTour->>+User: Login ou mot de passe refusé 
+    else Identifiants corrects
+        GrenoTour->>+ User: Connexion établie
+        GrenoTour->>+GrenoTour: Chargement de la carte
+    end
+ ```
 
 # 4 Séquence enregistrement (favoris) et partage d'un itinéraire
