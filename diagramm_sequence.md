@@ -13,6 +13,7 @@ sequenceDiagram
     GrenoTour->>+BDD: envoie une requette
     BDD->>+GrenoTour: envoie les résultats trouvés
     GrenoTour->>+user: créer un deuxième itinéraire
+
 ```
 
 # 2 Séquence inscription d'un nouvel utilisateur
@@ -35,3 +36,4 @@ sequenceDiagram
 
 
 # 4 Séquence enregistrement (favoris) et partage d'un itinéraire
+
