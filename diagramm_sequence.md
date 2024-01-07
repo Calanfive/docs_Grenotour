@@ -45,7 +45,7 @@ sequenceDiagram
         GrenoTour->>+GrenoTour: Chargement de la carte
     end
  ```
-
+ 
 # 4 Séquence enregistrement (favoris) et partage d'un itinéraire
 
 ```mermaid
