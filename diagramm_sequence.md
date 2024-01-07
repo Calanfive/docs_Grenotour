@@ -45,5 +45,19 @@ sequenceDiagram
         GrenoTour->>+GrenoTour: Chargement de la carte
     end
  ```
-
+ 
 # 4 Séquence enregistrement (favoris) et partage d'un itinéraire
+
+```mermaid
+sequenceDiagram
+    User->>+GrenoTour: Ajouter itinéraire favoris
+    GrenoTour->>+BDD: Envoi requête
+    BDD->>+GrenoTour: Itinéraire favoris ajouté
+    GrenoTour->>+User: Liste favoris mise à jour
+    User->>+GrenoTour: Partage de l'itinéraire
+    GrenoTour->>+User: Menu déroulant des choix de partage
+    User->>+GrenoTour: Choix du canal 
+    GrenoTour->>+ Canal_de_diffusion: Demande de connexion
+    Canal_de_diffusion->>+Canal_de_diffusion: Connexion établie
+    Canal_de_diffusion->>+User: Confirmation partage
+```
